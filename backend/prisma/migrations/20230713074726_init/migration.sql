@@ -46,11 +46,11 @@ CREATE TABLE `order` (
 -- CreateTable
 CREATE TABLE `pizza` (
     `id` INTEGER NOT NULL AUTO_INCREMENT,
-    `name` VARCHAR(45) NULL,
+    `name` VARCHAR(255) NULL,
     `price` DECIMAL(10, 0) NULL,
-    `description` VARCHAR(45) NULL,
-    `ingredients` VARCHAR(45) NULL,
-    `picture_link` VARCHAR(45) NULL,
+    `description` VARCHAR(255) NULL,
+    `ingredients` VARCHAR(255) NULL,
+    `picture_link` VARCHAR(255) NULL,
     `category_id` INTEGER NULL,
     `createdAt` DATETIME(3) NOT NULL DEFAULT CURRENT_TIMESTAMP(3),
     `updatedAt` DATETIME(3) NOT NULL,

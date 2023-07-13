@@ -15,7 +15,7 @@ function generateAccessToken(id) {
   return jwt.sign(id, process.env.ACCESS_TOKEN_SECRET);
 }
 
-router.post("/register", async (req, res) => {
+router.post("/register", async (req, res, next) => {
   logger.info(`Accessing register route - ${req.ip}`);
   try {
     let user = await create(req.body);
@@ -30,12 +30,12 @@ router.post("/register", async (req, res) => {
       });
     }
   } catch (err) {
-    logError(err);
+    logError(err, req, res, next);
   }
 });
 
 
-router.post("/login", async (req, res) => {
+router.post("/login", async (req, res, next) => {
   logger.info(`Accessing login route - ${req.ip}`);
   let checkUser = await getUserByEmail(req.body.email);
   if (checkUser == null) {

@@ -41,7 +41,7 @@ export const getAll = async () =>{
 
 export const deleteUser = async (id) => {
   const user = await prisma.user.delete({
-    where: {id},
+    where: {id: +id},
   });
   message = user ? 'User with id ' + id + ' is successfully deleted.' : 'User could not be deleted.';
   return {message};
@@ -50,7 +50,7 @@ export const deleteUser = async (id) => {
 
 export const update = async (userData) => {
   const user = await prisma.user.update({
-    where: { id: userData.id },
+    where: { id: +userData.id },
     data: { 
       first_name: userData.first_name,
       last_name: userData.last_name,

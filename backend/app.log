@@ -157,3 +157,1492 @@
 2023-07-12T15:35:56.544Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
 2023-07-12T15:35:56.550Z - [INFO] - Accessing route for adding new pizza - 192.168.50.35
 2023-07-12T15:36:09.610Z - [INFO] - Example app listening at port: 5000
+2023-07-12T15:40:41.289Z - [INFO] - Example app listening at port: 5000
+2023-07-12T15:48:14.539Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-12T15:48:14.580Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:26:11.841Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:28:03.929Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:28:10.614Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:28:10.618Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T07:28:10.940Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:28:10.944Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T07:28:35.988Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:28:46.137Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:28:46.141Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T07:28:46.463Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:28:46.468Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T07:29:13.526Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:29:13.830Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T07:29:13.841Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:29:13.869Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T07:29:23.716Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:29:23.719Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T07:29:23.753Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:29:23.981Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T07:29:25.650Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:29:25.653Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T07:29:25.667Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:29:25.668Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T07:29:37.909Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:29:37.913Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T07:29:38.237Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:29:38.239Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T07:29:43.499Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:29:43.502Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T07:29:43.821Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:29:43.823Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T07:30:02.742Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:30:09.548Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:30:19.605Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:30:22.485Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:30:26.065Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:30:29.169Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:30:33.808Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:30:36.638Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:30:49.808Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:30:53.575Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:31:06.432Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:31:09.838Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:31:11.744Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:31:15.136Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:31:18.836Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:31:20.361Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:31:27.987Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:31:28.714Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:31:37.487Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:31:38.656Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:31:40.980Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:31:42.785Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:31:44.821Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:31:46.839Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:31:47.148Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T07:31:47.165Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:31:47.470Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T07:31:47.790Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T07:31:48.038Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T07:31:48.119Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T07:31:48.365Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T07:31:48.444Z - [INFO] - Accessing route for getting pizzas by category - 192.168.50.35
+2023-07-13T07:33:58.337Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:34:02.802Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:34:12.334Z - [INFO] - Accessing login route - 192.168.50.35
+2023-07-13T07:34:12.420Z - [INFO] - User successfully logged in. admin - 192.168.50.35
+2023-07-13T07:34:29.593Z - [INFO] - Accessing login route - 192.168.50.35
+2023-07-13T07:34:29.649Z - [INFO] - User successfully logged in. admin - 192.168.50.35
+2023-07-13T07:34:29.927Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T07:34:29.929Z - [INFO] - Accessing route for getting all users - 192.168.50.35
+2023-07-13T07:34:29.931Z - [INFO] - Accessing route for getting all orders - 192.168.50.35
+2023-07-13T07:34:34.559Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T07:34:34.562Z - [INFO] - Accessing route for getting all users - 192.168.50.35
+2023-07-13T07:34:34.866Z - [INFO] - Accessing route for getting all orders - 192.168.50.35
+2023-07-13T07:34:34.892Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T07:34:34.893Z - [INFO] - Accessing route for getting all users - 192.168.50.35
+2023-07-13T07:34:34.913Z - [INFO] - Accessing route for getting all orders - 192.168.50.35
+2023-07-13T07:34:36.482Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T07:34:36.516Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T07:34:37.753Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:35:23.560Z - [INFO] - Accessing route for adding new pizza - 192.168.50.35
+2023-07-13T07:36:57.784Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:36:59.469Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:37:04.938Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:37:04.947Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T07:37:05.284Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T07:37:05.289Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:37:15.558Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T07:37:15.595Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T07:37:49.152Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:38:18.624Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T07:38:18.634Z - [INFO] - Accessing route for adding new pizza - 192.168.50.35
+2023-07-13T07:40:37.423Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:40:40.652Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:40:42.360Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:40:49.252Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:40:50.436Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:40:51.423Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:40:53.388Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:43:16.522Z - [INFO] - Accessing login route - 192.168.50.34
+2023-07-13T07:43:16.602Z - [INFO] - User successfully logged in. admin - 192.168.50.34
+2023-07-13T07:43:36.703Z - [INFO] - Accessing route for adding new pizza - 192.168.50.34
+2023-07-13T07:43:49.784Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:43:51.645Z - [INFO] - Accessing route for adding new pizza - 192.168.50.34
+2023-07-13T07:44:49.922Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:44:51.852Z - [INFO] - Accessing route for adding new pizza - 192.168.50.34
+2023-07-13T07:46:38.878Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:46:41.933Z - [INFO] - Accessing route for adding new pizza - 192.168.50.34
+2023-07-13T07:47:36.829Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:48:18.917Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:48:23.100Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:48:23.428Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T07:48:33.677Z - [INFO] - Accessing register route - 192.168.50.34
+2023-07-13T07:49:09.650Z - [INFO] - Accessing route for adding new pizza - 192.168.50.34
+2023-07-13T07:49:19.539Z - [INFO] - Accessing route for adding new pizza - 192.168.50.34
+2023-07-13T07:50:06.004Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:50:10.176Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:50:13.019Z - [INFO] - Accessing route for adding new pizza - 192.168.50.34
+2023-07-13T07:50:23.763Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:50:57.771Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:51:03.163Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:51:08.553Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:51:10.882Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:51:14.835Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:51:21.875Z - [INFO] - Accessing route for adding new pizza - 192.168.50.34
+2023-07-13T07:51:38.884Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:51:42.984Z - [INFO] - Accessing route for adding new pizza - 192.168.50.34
+2023-07-13T07:52:26.867Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:52:28.345Z - [INFO] - Accessing route for adding new pizza - 192.168.50.34
+2023-07-13T07:53:09.152Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:53:11.665Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:53:14.170Z - [INFO] - Accessing route for adding new pizza - 192.168.50.34
+2023-07-13T07:55:34.121Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:55:59.449Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:56:01.004Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:56:03.233Z - [INFO] - Accessing route for adding new pizza - 192.168.50.34
+2023-07-13T07:56:24.070Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:56:27.567Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:56:29.800Z - [INFO] - Accessing route for adding new pizza - 192.168.50.34
+2023-07-13T07:57:34.672Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:57:36.003Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:57:38.037Z - [INFO] - Accessing route for adding new pizza - 192.168.50.34
+2023-07-13T07:57:38.047Z - [ERROR] - 
+Invalid `prisma.pizza.create()` invocation:
+
+{
+  data: {
+    name: undefined,
+    price: undefined,
+    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor i',
+    ingredients: 'dscdsc, dfdfgd, dfdg, vf,',
+    picture_link: 'https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg?w=2000',
+    category_id: NaN
+    ~~~~~~~~~~~
+  }
+}
+
+Unknown arg `category_id` in data.category_id for type pizzaCreateInput. Did you mean `category`? Available args:
+type pizzaCreateInput {
+  name?: String | Null
+  price?: Decimal | Null
+  description?: String | Null
+  ingredients?: String | Null
+  picture_link?: String | Null
+  createdAt?: DateTime
+  updatedAt?: DateTime
+  order_line_item?: order_line_itemCreateNestedManyWithoutPizzaInput
+  category?: categoryCreateNestedOneWithoutPizzaInput
+  rating?: ratingCreateNestedManyWithoutPizzaInput
+}
+
+
+2023-07-13T07:58:35.071Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:58:37.750Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:58:42.731Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:58:44.576Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:58:55.199Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:59:12.533Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:59:19.954Z - [INFO] - Accessing route for adding new pizza - 192.168.50.34
+2023-07-13T07:59:39.961Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:59:43.412Z - [INFO] - Example app listening at port: 5000
+2023-07-13T07:59:45.650Z - [INFO] - Accessing route for adding new pizza - 192.168.50.34
+2023-07-13T08:00:01.760Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:00:02.666Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:00:05.335Z - [INFO] - Accessing route for adding new pizza - 192.168.50.34
+2023-07-13T08:00:44.680Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:00:47.181Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:00:48.419Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:00:49.433Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:00:51.525Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:00:58.005Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:01:00.489Z - [INFO] - Accessing route for adding new pizza - 192.168.50.34
+2023-07-13T08:01:00.500Z - [ERROR] - 
+Invalid `prisma.pizza.create()` invocation:
+
+{
+  data: {
+    name: undefined,
+    price: undefined,
+    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor i',
+    ingredients: 'dscdsc, dfdfgd, dfdg, vf,',
+    picture_link: 'https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg?w=2000',
+    category_id: NaN
+    ~~~~~~~~~~~
+  }
+}
+
+Unknown arg `category_id` in data.category_id for type pizzaCreateInput. Did you mean `category`? Available args:
+type pizzaCreateInput {
+  name?: String | Null
+  price?: Decimal | Null
+  description?: String | Null
+  ingredients?: String | Null
+  picture_link?: String | Null
+  createdAt?: DateTime
+  updatedAt?: DateTime
+  order_line_item?: order_line_itemCreateNestedManyWithoutPizzaInput
+  category?: categoryCreateNestedOneWithoutPizzaInput
+  rating?: ratingCreateNestedManyWithoutPizzaInput
+}
+
+
+2023-07-13T08:01:11.429Z - [INFO] - Accessing route for adding new pizza - 192.168.50.34
+2023-07-13T08:01:11.436Z - [ERROR] - 
+Invalid `prisma.pizza.create()` invocation:
+
+{
+  data: {
+    name: undefined,
+    price: undefined,
+    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor i',
+    ingredients: 'dscdsc, dfdfgd, dfdg, vf,',
+    picture_link: 'https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg?w=2000',
+    category_id: NaN
+    ~~~~~~~~~~~
+  }
+}
+
+Unknown arg `category_id` in data.category_id for type pizzaCreateInput. Did you mean `category`? Available args:
+type pizzaCreateInput {
+  name?: String | Null
+  price?: Decimal | Null
+  description?: String | Null
+  ingredients?: String | Null
+  picture_link?: String | Null
+  createdAt?: DateTime
+  updatedAt?: DateTime
+  order_line_item?: order_line_itemCreateNestedManyWithoutPizzaInput
+  category?: categoryCreateNestedOneWithoutPizzaInput
+  rating?: ratingCreateNestedManyWithoutPizzaInput
+}
+
+
+2023-07-13T08:01:21.913Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:01:21.982Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:01:27.000Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:01:27.920Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:02:03.886Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:02:28.407Z - [INFO] - Accessing route for adding new pizza - 192.168.50.35
+2023-07-13T08:02:28.748Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:02:37.165Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:02:37.224Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:03:31.888Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.34
+2023-07-13T08:04:00.121Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:04:04.009Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:04:06.168Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.34
+2023-07-13T08:04:53.205Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:04:58.286Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:04:59.629Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.34
+2023-07-13T08:05:40.776Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:05:42.856Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.34
+2023-07-13T08:05:54.312Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:06:03.158Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:06:05.706Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.34
+2023-07-13T08:06:18.228Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:06:25.313Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:06:29.556Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:06:31.406Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.34
+2023-07-13T08:06:50.275Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:06:53.825Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:06:55.003Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:06:56.076Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:06:57.534Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.34
+2023-07-13T08:07:21.305Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:07:23.582Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:07:25.845Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.34
+2023-07-13T08:07:40.268Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:07:42.510Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:07:43.742Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.34
+2023-07-13T08:07:55.692Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:08:01.077Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:08:02.977Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:08:11.383Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.34
+2023-07-13T08:08:20.386Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:08:21.273Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.34
+2023-07-13T08:08:27.160Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:08:30.062Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:08:31.535Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.34
+2023-07-13T08:08:55.690Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:08:57.291Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.34
+2023-07-13T08:09:07.690Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:09:29.420Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:09:48.850Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:09:50.580Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:09:52.940Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.34
+2023-07-13T08:10:14.830Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:10:15.957Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.34
+2023-07-13T08:10:44.611Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:10:44.647Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:02.689Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:11:02.692Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:11:02.714Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:11:05.703Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:11:05.707Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:11:05.724Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:11:05.731Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:11:08.147Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:11:08.151Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:11:08.163Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:11:08.486Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:11:12.232Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:11:12.235Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:11:12.247Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:11:12.560Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:11:14.657Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:11:14.663Z - [INFO] - Accessing route for getting pizzas by category - 192.168.50.35
+2023-07-13T08:11:14.685Z - [ERROR] - 
+Invalid `prisma.pizza.findMany()` invocation:
+
+{
+  include: {
+    rating: true
+  },
+  where: {
+    category_id: '1'
+                 ~~~
+  }
+}
+
+Argument category_id: Got invalid value '1' on prisma.findManypizza. Provided String, expected IntNullableFilter or Int or Null:
+type IntNullableFilter {
+  equals?: Int | IntFieldRefInput | Null
+  in?: List<Int> | Null
+  notIn?: List<Int> | Null
+  lt?: Int | IntFieldRefInput
+  lte?: Int | IntFieldRefInput
+  gt?: Int | IntFieldRefInput
+  gte?: Int | IntFieldRefInput
+  not?: Int | NestedIntNullableFilter | Null
+}
+
+
+2023-07-13T08:11:15.007Z - [INFO] - Accessing route for getting pizzas by category - 192.168.50.35
+2023-07-13T08:11:15.013Z - [ERROR] - 
+Invalid `prisma.pizza.findMany()` invocation:
+
+{
+  include: {
+    rating: true
+  },
+  where: {
+    category_id: '1'
+                 ~~~
+  }
+}
+
+Argument category_id: Got invalid value '1' on prisma.findManypizza. Provided String, expected IntNullableFilter or Int or Null:
+type IntNullableFilter {
+  equals?: Int | IntFieldRefInput | Null
+  in?: List<Int> | Null
+  notIn?: List<Int> | Null
+  lt?: Int | IntFieldRefInput
+  lte?: Int | IntFieldRefInput
+  gt?: Int | IntFieldRefInput
+  gte?: Int | IntFieldRefInput
+  not?: Int | NestedIntNullableFilter | Null
+}
+
+
+2023-07-13T08:11:15.022Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:11:15.324Z - [INFO] - Accessing route for getting pizzas by category - 192.168.50.35
+2023-07-13T08:11:15.329Z - [ERROR] - 
+Invalid `prisma.pizza.findMany()` invocation:
+
+{
+  include: {
+    rating: true
+  },
+  where: {
+    category_id: '1'
+                 ~~~
+  }
+}
+
+Argument category_id: Got invalid value '1' on prisma.findManypizza. Provided String, expected IntNullableFilter or Int or Null:
+type IntNullableFilter {
+  equals?: Int | IntFieldRefInput | Null
+  in?: List<Int> | Null
+  notIn?: List<Int> | Null
+  lt?: Int | IntFieldRefInput
+  lte?: Int | IntFieldRefInput
+  gt?: Int | IntFieldRefInput
+  gte?: Int | IntFieldRefInput
+  not?: Int | NestedIntNullableFilter | Null
+}
+
+
+2023-07-13T08:11:15.863Z - [INFO] - Accessing route for getting pizzas by category - 192.168.50.35
+2023-07-13T08:11:15.868Z - [ERROR] - 
+Invalid `prisma.pizza.findMany()` invocation:
+
+{
+  include: {
+    rating: true
+  },
+  where: {
+    category_id: '2'
+                 ~~~
+  }
+}
+
+Argument category_id: Got invalid value '2' on prisma.findManypizza. Provided String, expected IntNullableFilter or Int or Null:
+type IntNullableFilter {
+  equals?: Int | IntFieldRefInput | Null
+  in?: List<Int> | Null
+  notIn?: List<Int> | Null
+  lt?: Int | IntFieldRefInput
+  lte?: Int | IntFieldRefInput
+  gt?: Int | IntFieldRefInput
+  gte?: Int | IntFieldRefInput
+  not?: Int | NestedIntNullableFilter | Null
+}
+
+
+2023-07-13T08:11:16.616Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:16.951Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:17.203Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:17.285Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:17.524Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:17.612Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:17.850Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:17.941Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:18.176Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:18.255Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:18.494Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:18.572Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:18.821Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:18.895Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:19.141Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:19.220Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:19.470Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:19.550Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:19.793Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:19.877Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:20.127Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:20.204Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:20.461Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:20.526Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:20.779Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:20.843Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:21.108Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:21.165Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:21.428Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:21.487Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:21.753Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:21.812Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:22.081Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:22.139Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:22.406Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:22.463Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:22.737Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:22.782Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:23.063Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:23.098Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:23.394Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:23.421Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:23.720Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:23.741Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:24.044Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:24.060Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:24.374Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:24.638Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:24.706Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:24.966Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:25.027Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:25.286Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:25.343Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:25.613Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:25.658Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:25.948Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:11:25.965Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:11:25.968Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:25.976Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:11:26.265Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:11:26.472Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:11:26.474Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:11:26.531Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:11:26.788Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:11:28.096Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:11:28.098Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:11:28.108Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:11:28.421Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:11:51.519Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:11:51.823Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:11:51.835Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:11:51.874Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:11:53.355Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:11:53.358Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:11:53.368Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:11:53.683Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:12:30.873Z - [INFO] - Accessing route for getting pizzas by category - 192.168.50.35
+2023-07-13T08:12:30.878Z - [ERROR] - 
+Invalid `prisma.pizza.findMany()` invocation:
+
+{
+  include: {
+    rating: true
+  },
+  where: {
+    category_id: '2'
+                 ~~~
+  }
+}
+
+Argument category_id: Got invalid value '2' on prisma.findManypizza. Provided String, expected IntNullableFilter or Int or Null:
+type IntNullableFilter {
+  equals?: Int | IntFieldRefInput | Null
+  in?: List<Int> | Null
+  notIn?: List<Int> | Null
+  lt?: Int | IntFieldRefInput
+  lte?: Int | IntFieldRefInput
+  gt?: Int | IntFieldRefInput
+  gte?: Int | IntFieldRefInput
+  not?: Int | NestedIntNullableFilter | Null
+}
+
+
+2023-07-13T08:12:31.936Z - [INFO] - Accessing route for getting pizzas by category - 192.168.50.35
+2023-07-13T08:12:31.940Z - [ERROR] - 
+Invalid `prisma.pizza.findMany()` invocation:
+
+{
+  include: {
+    rating: true
+  },
+  where: {
+    category_id: '1'
+                 ~~~
+  }
+}
+
+Argument category_id: Got invalid value '1' on prisma.findManypizza. Provided String, expected IntNullableFilter or Int or Null:
+type IntNullableFilter {
+  equals?: Int | IntFieldRefInput | Null
+  in?: List<Int> | Null
+  notIn?: List<Int> | Null
+  lt?: Int | IntFieldRefInput
+  lte?: Int | IntFieldRefInput
+  gt?: Int | IntFieldRefInput
+  gte?: Int | IntFieldRefInput
+  not?: Int | NestedIntNullableFilter | Null
+}
+
+
+2023-07-13T08:12:33.269Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:12:34.584Z - [INFO] - Accessing route for getting pizzas by category - 192.168.50.35
+2023-07-13T08:12:34.588Z - [ERROR] - 
+Invalid `prisma.pizza.findMany()` invocation:
+
+{
+  include: {
+    rating: true
+  },
+  where: {
+    category_id: '1'
+                 ~~~
+  }
+}
+
+Argument category_id: Got invalid value '1' on prisma.findManypizza. Provided String, expected IntNullableFilter or Int or Null:
+type IntNullableFilter {
+  equals?: Int | IntFieldRefInput | Null
+  in?: List<Int> | Null
+  notIn?: List<Int> | Null
+  lt?: Int | IntFieldRefInput
+  lte?: Int | IntFieldRefInput
+  gt?: Int | IntFieldRefInput
+  gte?: Int | IntFieldRefInput
+  not?: Int | NestedIntNullableFilter | Null
+}
+
+
+2023-07-13T08:12:35.776Z - [INFO] - Accessing route for getting pizzas by category - 192.168.50.35
+2023-07-13T08:12:35.781Z - [ERROR] - 
+Invalid `prisma.pizza.findMany()` invocation:
+
+{
+  include: {
+    rating: true
+  },
+  where: {
+    category_id: '2'
+                 ~~~
+  }
+}
+
+Argument category_id: Got invalid value '2' on prisma.findManypizza. Provided String, expected IntNullableFilter or Int or Null:
+type IntNullableFilter {
+  equals?: Int | IntFieldRefInput | Null
+  in?: List<Int> | Null
+  notIn?: List<Int> | Null
+  lt?: Int | IntFieldRefInput
+  lte?: Int | IntFieldRefInput
+  gt?: Int | IntFieldRefInput
+  gte?: Int | IntFieldRefInput
+  not?: Int | NestedIntNullableFilter | Null
+}
+
+
+2023-07-13T08:12:36.464Z - [INFO] - Accessing route for getting pizzas by category - 192.168.50.35
+2023-07-13T08:12:36.467Z - [ERROR] - 
+Invalid `prisma.pizza.findMany()` invocation:
+
+{
+  include: {
+    rating: true
+  },
+  where: {
+    category_id: '1'
+                 ~~~
+  }
+}
+
+Argument category_id: Got invalid value '1' on prisma.findManypizza. Provided String, expected IntNullableFilter or Int or Null:
+type IntNullableFilter {
+  equals?: Int | IntFieldRefInput | Null
+  in?: List<Int> | Null
+  notIn?: List<Int> | Null
+  lt?: Int | IntFieldRefInput
+  lte?: Int | IntFieldRefInput
+  gt?: Int | IntFieldRefInput
+  gte?: Int | IntFieldRefInput
+  not?: Int | NestedIntNullableFilter | Null
+}
+
+
+2023-07-13T08:12:37.181Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:13:04.188Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:13:09.181Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:13:10.674Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:13:18.013Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:13:23.244Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:13:24.090Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:13:33.398Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:13:36.704Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:13:38.543Z - [INFO] - Accessing route for getting pizzas by category - 192.168.50.35
+2023-07-13T08:13:39.933Z - [INFO] - Accessing route for getting pizzas by category - 192.168.50.35
+2023-07-13T08:13:40.880Z - [INFO] - Accessing route for getting pizzas by category - 192.168.50.35
+2023-07-13T08:13:41.885Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:13:42.660Z - [INFO] - Accessing route for getting pizzas by category - 192.168.50.35
+2023-07-13T08:13:43.878Z - [INFO] - Accessing route for getting pizzas by category - 192.168.50.35
+2023-07-13T08:13:44.435Z - [INFO] - Accessing route for getting pizzas by category - 192.168.50.35
+2023-07-13T08:13:45.195Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:14:08.192Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:14:15.478Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:14:15.567Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:14:17.643Z - [INFO] - Accessing route for getting pizzas by category - 192.168.50.35
+2023-07-13T08:14:19.135Z - [INFO] - Accessing route for getting pizzas by category - 192.168.50.35
+2023-07-13T08:14:21.100Z - [INFO] - Accessing route for getting pizzas by category - 192.168.50.35
+2023-07-13T08:14:21.741Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:14:22.244Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:14:22.552Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:14:22.565Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:14:22.874Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:14:50.520Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:14:50.524Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:14:50.834Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:14:50.871Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:14:53.860Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:14:53.863Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:14:53.878Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:14:54.182Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:15:31.423Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:15:31.755Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:15:31.756Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:15:32.074Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:15:41.373Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:15:46.997Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:16:02.326Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:16:02.332Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:16:02.655Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:16:02.659Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:16:03.319Z - [INFO] - Accessing route for getting pizzas by category - 192.168.50.35
+2023-07-13T08:16:04.054Z - [INFO] - Accessing route for getting pizzas by category - 192.168.50.35
+2023-07-13T08:16:05.156Z - [INFO] - Accessing route for getting pizzas by category - 192.168.50.35
+2023-07-13T08:16:05.869Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:16:08.072Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:16:08.078Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:16:08.337Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:16:08.406Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:16:22.189Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:16:23.758Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:16:27.369Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:16:29.955Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:16:29.957Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:16:30.218Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:16:30.275Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:16:54.678Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:16:55.888Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:18:24.368Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:18:25.931Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:18:25.940Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:18:25.953Z - [ERROR] - 
+Invalid `prisma.pizza.findUnique()` invocation:
+
+{
+  include: {
+    rating: true
+  },
+  where: {
+    id: '1'
+        ~~~
+  }
+}
+
+Argument id: Got invalid value '1' on prisma.findUniquepizza. Provided String, expected Int.
+
+
+2023-07-13T08:18:26.281Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:18:26.286Z - [ERROR] - 
+Invalid `prisma.pizza.findUnique()` invocation:
+
+{
+  include: {
+    rating: true
+  },
+  where: {
+    id: '1'
+        ~~~
+  }
+}
+
+Argument id: Got invalid value '1' on prisma.findUniquepizza. Provided String, expected Int.
+
+
+2023-07-13T08:18:26.290Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:18:26.604Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:18:26.606Z - [ERROR] - 
+Invalid `prisma.pizza.findUnique()` invocation:
+
+{
+  include: {
+    rating: true
+  },
+  where: {
+    id: '1'
+        ~~~
+  }
+}
+
+Argument id: Got invalid value '1' on prisma.findUniquepizza. Provided String, expected Int.
+
+
+2023-07-13T08:18:27.421Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:18:32.741Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:18:34.342Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:18:34.350Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:18:34.608Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:18:34.687Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:18:41.384Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:19:04.269Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:19:04.569Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:19:04.576Z - [ERROR] - 
+Invalid `prisma.pizza.findUnique()` invocation:
+
+{
+  include: {
+    rating: true
+  },
+  where: {
+    id: '2'
+        ~~~
+  }
+}
+
+Argument id: Got invalid value '2' on prisma.findUniquepizza. Provided String, expected Int.
+
+
+2023-07-13T08:19:04.597Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:19:04.894Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:19:04.896Z - [ERROR] - 
+Invalid `prisma.pizza.findUnique()` invocation:
+
+{
+  include: {
+    rating: true
+  },
+  where: {
+    id: '2'
+        ~~~
+  }
+}
+
+Argument id: Got invalid value '2' on prisma.findUniquepizza. Provided String, expected Int.
+
+
+2023-07-13T08:19:05.774Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:19:05.775Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:19:06.043Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:19:06.084Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:19:09.380Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:19:32.220Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:19:32.530Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:19:32.544Z - [ERROR] - products.map is not a function
+2023-07-13T08:19:32.548Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:19:32.864Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:19:32.871Z - [ERROR] - products.map is not a function
+2023-07-13T08:20:41.123Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:21:09.785Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:21:12.622Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:21:14.990Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:21:18.653Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:21:21.040Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:21:31.460Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:21:34.177Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:21:35.447Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:23:12.597Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:23:19.003Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:23:24.141Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.34
+2023-07-13T08:23:34.964Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.34
+2023-07-13T08:23:48.193Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:23:48.498Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:23:48.528Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:23:48.545Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:23:48.815Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:24:02.188Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:24:10.697Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:24:10.702Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:24:10.749Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:24:10.760Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:24:11.015Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:24:37.851Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:24:37.865Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:24:39.635Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:24:39.647Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:24:56.567Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:24:56.571Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:24:56.835Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:24:56.886Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:25:06.746Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:25:07.050Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:25:07.058Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:25:07.365Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:25:07.688Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:25:30.738Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:25:42.073Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:25:44.691Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:25:46.936Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:26:30.675Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:26:34.507Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:26:44.894Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:26:48.875Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:26:51.380Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:26:54.709Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:27:06.106Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:27:19.172Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:27:19.180Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:27:19.183Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T08:27:19.493Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:27:19.506Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T08:27:19.532Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:27:19.568Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:27:19.752Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:27:38.102Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:27:38.350Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:27:38.416Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T08:27:38.419Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:27:38.428Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:27:38.679Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T08:27:41.084Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:27:41.406Z - [INFO] - Accessing route for getting all pizzas - 192.168.50.35
+2023-07-13T08:27:42.657Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:27:42.980Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:28:32.515Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:28:32.823Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T08:28:32.839Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:28:33.148Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T08:29:03.426Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:29:03.728Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:29:03.731Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T08:29:03.741Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:29:03.751Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:29:04.041Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T08:29:05.126Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:29:05.128Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:29:05.132Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T08:29:05.384Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:29:05.451Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T08:29:05.452Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T08:29:42.114Z - [INFO] - Accessing route for rating pizza - 192.168.50.35
+2023-07-13T08:29:42.121Z - [ERROR] - 
+Invalid `prisma.rating.create()` invocation:
+
+{
+  data: {
+    product_id: '1',
+    ~~~~~~~~~~
+    rating: 3
+  }
+}
+
+Unknown arg `product_id` in data.product_id for type ratingCreateInput. Did you mean `rating`? Available args:
+type ratingCreateInput {
+  rating?: Float | Null
+  pizza?: pizzaCreateNestedOneWithoutRatingInput
+}
+
+
+2023-07-13T08:29:42.364Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:29:54.896Z - [INFO] - Accessing route for rating pizza - 192.168.50.35
+2023-07-13T08:29:54.903Z - [ERROR] - 
+Invalid `prisma.rating.create()` invocation:
+
+{
+  data: {
+    product_id: '1',
+    ~~~~~~~~~~
+    rating: 4
+  }
+}
+
+Unknown arg `product_id` in data.product_id for type ratingCreateInput. Did you mean `rating`? Available args:
+type ratingCreateInput {
+  rating?: Float | Null
+  pizza?: pizzaCreateNestedOneWithoutRatingInput
+}
+
+
+2023-07-13T08:30:39.186Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:30:47.350Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:30:50.469Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:30:55.114Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:31:10.332Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:31:19.450Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:31:27.141Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:31:30.001Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:31:35.968Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:31:45.062Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:31:59.790Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:32:14.987Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:32:16.263Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:32:21.039Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:32:26.856Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:32:31.805Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:32:40.789Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:32:45.642Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:32:47.427Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:32:48.839Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:32:49.150Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:32:49.171Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:32:49.478Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:32:49.805Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:33:00.097Z - [INFO] - Accessing route for rating pizza - 192.168.50.35
+2023-07-13T08:33:00.105Z - [ERROR] - 
+Invalid `prisma.rating.create()` invocation:
+
+{
+  data: {
+    product_id: 1,
+    ~~~~~~~~~~
+    rating: 3
+  }
+}
+
+Unknown arg `product_id` in data.product_id for type ratingCreateInput. Did you mean `rating`? Available args:
+type ratingCreateInput {
+  rating?: Float | Null
+  pizza?: pizzaCreateNestedOneWithoutRatingInput
+}
+
+
+2023-07-13T08:33:07.556Z - [INFO] - Accessing route for rating pizza - 192.168.50.35
+2023-07-13T08:33:07.559Z - [ERROR] - 
+Invalid `prisma.rating.create()` invocation:
+
+{
+  data: {
+    product_id: 1,
+    ~~~~~~~~~~
+    rating: 3
+  }
+}
+
+Unknown arg `product_id` in data.product_id for type ratingCreateInput. Did you mean `rating`? Available args:
+type ratingCreateInput {
+  rating?: Float | Null
+  pizza?: pizzaCreateNestedOneWithoutRatingInput
+}
+
+
+2023-07-13T08:33:30.186Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:33:38.184Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:33:42.287Z - [INFO] - Example app listening at port: 5000
+2023-07-13T08:33:42.700Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:33:48.180Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:33:48.802Z - [INFO] - Accessing route for rating pizza - 192.168.50.35
+2023-07-13T08:33:49.131Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:34:14.188Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:34:25.183Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:34:28.184Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:34:30.657Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:34:40.183Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:34:49.184Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:35:06.184Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:35:22.363Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:35:33.187Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:35:35.190Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:35:39.188Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:35:40.194Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:35:43.180Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:35:49.186Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:35:56.190Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:35:58.172Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:36:17.170Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:36:22.185Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:36:29.175Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:36:32.344Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:36:46.193Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:36:51.182Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:36:54.197Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:36:56.193Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:37:01.183Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:37:06.184Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:37:17.196Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:37:19.187Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:37:22.195Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:37:25.185Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:37:29.188Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:37:30.188Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:37:35.176Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:37:38.605Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:37:48.311Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:37:49.179Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:38:00.199Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:38:14.176Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:38:26.983Z - [INFO] - Accessing route for rating pizza - 192.168.50.35
+2023-07-13T08:38:27.323Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:38:31.910Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:38:31.912Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:38:31.946Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:38:32.223Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:38:32.231Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:38:33.411Z - [INFO] - Accessing route for rating pizza - 192.168.50.35
+2023-07-13T08:38:33.432Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:40:07.186Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:41:13.187Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:42:35.188Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:42:40.236Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:42:41.174Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:42:43.183Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:42:47.183Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:42:49.182Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:42:51.193Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:45:56.175Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:46:23.200Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:46:23.202Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:46:23.590Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:46:23.591Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:48:14.191Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:48:14.196Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:48:14.204Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:48:14.519Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:49:16.179Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:49:24.190Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:49:41.753Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:49:42.056Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:49:42.068Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:49:42.076Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:49:42.371Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:53:22.187Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:53:22.191Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:53:22.233Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:53:22.500Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:53:22.511Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:56:36.197Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:56:43.179Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:56:44.183Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:56:47.174Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:56:50.169Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:56:52.172Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:56:55.180Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:56:57.658Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:57:13.891Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:57:13.895Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:57:13.922Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:57:14.207Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:57:14.217Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:57:30.200Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:57:30.511Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:57:30.515Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T08:57:30.838Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:57:34.188Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:57:36.183Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:57:38.245Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:57:42.168Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:57:45.179Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:57:47.181Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:57:49.634Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:57:50.704Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:57:51.176Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:58:04.171Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:58:09.172Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:58:29.191Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:58:59.182Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:59:03.190Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:59:04.179Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:59:10.180Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:59:11.180Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:59:20.186Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:59:23.187Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:59:31.177Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:59:34.185Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:59:37.181Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:59:39.174Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:59:40.733Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T08:59:55.190Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:00:12.199Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:00:21.186Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:00:32.057Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:00:44.181Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:00:48.191Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:00:51.193Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:01:06.184Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:01:22.168Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:01:27.470Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:01:30.168Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:01:35.533Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:01:36.176Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:01:40.457Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:01:41.169Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:01:44.176Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:01:47.178Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:01:49.165Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:01:54.183Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:02:00.174Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:02:03.172Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:02:05.175Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:02:06.177Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:02:11.187Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:02:16.177Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:03:06.191Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:03:14.177Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:03:26.190Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:03:29.196Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:03:34.185Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:03:50.196Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:03:55.209Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:03:55.212Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:03:55.526Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:03:55.528Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:03:57.186Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:04:06.185Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:04:16.493Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:04:17.186Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:04:41.245Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:04:43.179Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:04:46.187Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:04:48.174Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:04:53.278Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:04:53.581Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:04:53.586Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:04:53.667Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:04:53.893Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:05:18.197Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:06:51.200Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:06:55.181Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:07:00.233Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:07:24.182Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:07:35.557Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:07:36.182Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:07:45.186Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:07:50.176Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:07:52.193Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:08:03.174Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:08:29.184Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:08:58.199Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:09:03.557Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:09:03.560Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:09:03.590Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:09:03.894Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:09:03.930Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:09:25.199Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:09:35.192Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:09:44.200Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:10:06.175Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:10:10.167Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:10:15.188Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:10:21.817Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:10:21.820Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:10:21.871Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:10:22.130Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:10:22.139Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:10:30.819Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:10:31.117Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:10:31.142Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:10:31.148Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:10:31.208Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:12:03.205Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:12:17.214Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:12:24.264Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:12:30.198Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:12:34.188Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:12:46.192Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:12:51.188Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:12:54.189Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:13:01.197Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:13:05.188Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:13:14.204Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:13:19.195Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:13:24.185Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:13:29.192Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:13:36.200Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:13:38.180Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:13:46.184Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:13:48.185Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:13:50.183Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:13:58.192Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:14:02.177Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:14:04.184Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:14:09.313Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:14:11.172Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:14:15.814Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:14:16.117Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:14:16.125Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:14:16.159Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:14:16.431Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:14:38.216Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:14:41.189Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:14:44.186Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:14:46.192Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:14:54.933Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:14:54.934Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:14:54.999Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:14:55.005Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:14:55.242Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:15:18.517Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:15:24.204Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:15:30.608Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:15:31.176Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:15:33.181Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:15:35.187Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:15:41.371Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:15:41.673Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:15:41.682Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:15:41.735Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:15:41.985Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:15:57.178Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:16:07.852Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:16:08.154Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:16:08.163Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:16:08.219Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:16:08.231Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:16:42.184Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:16:45.187Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:16:47.192Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:16:51.940Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:16:56.540Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:16:56.841Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:16:56.849Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:16:56.891Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:16:57.154Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:18:53.651Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:18:53.653Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:18:53.973Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:18:53.976Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:18:54.007Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:19:33.192Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:19:35.171Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:20:16.982Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:20:17.285Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:20:17.298Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:20:17.314Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:20:17.344Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:21:10.951Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:21:22.190Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:21:26.186Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:21:28.582Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:22:12.184Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:22:14.189Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:22:18.185Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:22:23.181Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:22:25.172Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:22:27.179Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:22:31.182Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:22:34.172Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:22:38.198Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:22:40.187Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:22:42.177Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:22:45.305Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:22:46.185Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:22:59.986Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:23:12.891Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:23:12.894Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:23:13.157Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:23:13.205Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:23:41.416Z - [INFO] - Accessing route for rating pizza - 192.168.50.35
+2023-07-13T09:23:41.754Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:24:05.685Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:24:05.687Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:24:05.984Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:24:05.996Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:24:06.188Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:24:06.292Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:24:06.496Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:24:06.505Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:24:30.182Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:26:08.723Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T09:28:50.744Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:28:50.756Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:38:31.843Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:38:31.855Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:38:34.675Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:38:34.683Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:44:50.288Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:44:50.611Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:54:50.604Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:54:50.865Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:55:21.069Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:55:21.078Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:55:23.019Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:55:23.021Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T09:55:23.025Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T09:55:23.278Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:55:23.341Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T09:55:23.342Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T09:55:35.632Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T09:55:35.943Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:24:26.793Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:24:26.802Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:24:34.811Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:24:35.130Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:25:32.489Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:25:32.490Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T11:25:32.491Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T11:25:32.495Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:25:32.502Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T11:25:32.806Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T11:25:36.796Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:25:37.117Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:25:45.755Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:25:46.068Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T11:25:46.069Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T11:25:46.072Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:25:46.379Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T11:25:46.381Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T11:25:47.304Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:25:47.305Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T11:25:47.569Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:25:47.614Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T11:25:47.620Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T11:25:55.655Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:25:55.922Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:26:01.625Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:26:01.935Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T11:26:01.938Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T11:26:01.940Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:26:02.261Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T11:26:02.263Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T11:26:02.967Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:26:02.969Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T11:26:03.229Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:26:03.292Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T11:26:03.299Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T11:26:07.247Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:26:07.249Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T11:26:07.251Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T11:26:07.502Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:26:07.565Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T11:26:07.567Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T11:26:07.568Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T11:26:07.795Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:26:07.811Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T11:26:07.889Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:26:08.108Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T11:26:14.279Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:26:14.593Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:28:10.782Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:28:11.086Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T11:28:11.088Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T11:28:11.094Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:28:11.398Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T11:28:11.400Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T11:28:13.148Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:28:13.150Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T11:28:13.413Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:28:13.458Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T11:28:17.030Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:28:17.346Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T11:28:17.347Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T11:28:17.348Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:28:17.662Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T11:28:17.663Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T11:28:18.063Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:28:18.066Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T11:28:18.329Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:28:18.374Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T11:28:18.381Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T11:28:21.738Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:28:21.999Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:29:26.329Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:29:26.330Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T11:29:26.641Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T11:29:26.642Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:29:26.643Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T11:29:26.952Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T11:29:28.674Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:29:28.675Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T11:29:28.938Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:29:28.985Z - [INFO] - Accessing route for getting pizza by id - 192.168.50.35
+2023-07-13T11:29:38.209Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:29:38.523Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:31:30.419Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:31:30.726Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:33:14.250Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:33:14.257Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:33:19.179Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:33:19.181Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T11:33:19.484Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T11:33:19.493Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T11:33:19.494Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T11:33:19.798Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T13:01:51.325Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T13:01:51.584Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T13:01:52.073Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T13:01:52.384Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T13:01:53.036Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T13:01:53.348Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T13:01:54.543Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T13:01:54.864Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T13:01:58.673Z - [INFO] - Accessing login route - 192.168.50.35
+2023-07-13T13:01:58.683Z - [ERROR] - Invalid credientials. There is no user with that email address. - 192.168.50.35
+2023-07-13T13:02:25.040Z - [INFO] - Accessing register route - 192.168.50.35
+2023-07-13T13:02:25.292Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T13:02:25.460Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T13:02:25.462Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T13:02:25.463Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T13:02:25.618Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T13:02:25.776Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T13:02:27.295Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T13:02:27.614Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T13:02:29.564Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T13:02:29.883Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T13:02:41.778Z - [INFO] - Accessing login route - 192.168.50.35
+2023-07-13T13:02:41.835Z - [INFO] - User successfully logged in. ajnna - 192.168.50.35
+2023-07-13T13:02:42.025Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T13:02:42.163Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T13:02:42.165Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T13:02:42.352Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T13:02:45.775Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T13:02:46.090Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T13:02:46.091Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T13:02:46.096Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T13:02:46.118Z - [INFO] - Accessing route for getting pizzas by category - 192.168.50.35
+2023-07-13T13:02:46.225Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T13:02:46.415Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T13:02:46.417Z - [INFO] - Accessing route for getting pizzas by category - 192.168.50.35
+2023-07-13T13:02:58.720Z - [INFO] - Accessing login route - 192.168.50.35
+2023-07-13T13:02:58.776Z - [INFO] - User successfully logged in. ajnna - 192.168.50.35
+2023-07-13T13:02:59.112Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T13:02:59.115Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T13:02:59.363Z - [INFO] - Accessing route for getting newest pizzas - 192.168.50.35
+2023-07-13T13:02:59.440Z - [INFO] - Accessing route for getting best pizzas - 192.168.50.35
+2023-07-13T13:03:03.138Z - [INFO] - Accessing route for getting all cities - 192.168.50.35
+2023-07-13T13:03:03.454Z - [INFO] - Accessing route for getting all cities - 192.168.50.35
+2023-07-13T13:20:30.258Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T13:20:30.259Z - [INFO] - Accessing route for getting all cities - 192.168.50.35
+2023-07-13T13:20:30.274Z - [INFO] - Accessing route for getting all pizza categories - 192.168.50.35
+2023-07-13T13:20:30.276Z - [INFO] - Accessing route for getting all cities - 192.168.50.35
+2023-07-13T13:20:42.192Z - [INFO] - Accessing route for getting all cities - 192.168.50.35
+2023-07-13T13:20:44.203Z - [INFO] - Accessing route for getting all cities - 192.168.50.35
+2023-07-13T13:21:16.194Z - [INFO] - Accessing route for getting all cities - 192.168.50.35
+2023-07-13T13:21:17.205Z - [INFO] - Accessing route for getting all cities - 192.168.50.35
+2023-07-13T13:21:19.199Z - [INFO] - Accessing route for getting all cities - 192.168.50.35
+2023-07-13T13:21:37.219Z - [INFO] - Accessing route for getting all cities - 192.168.50.35
+2023-07-13T13:22:57.200Z - [INFO] - Accessing route for getting all cities - 192.168.50.35

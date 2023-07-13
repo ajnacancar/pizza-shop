@@ -49,11 +49,11 @@ model order {
 
 model pizza {
   id              Int               @id @unique(map: "id_UNIQUE") @default(autoincrement())
-  name            String?           @db.VarChar(45)
+  name            String?           @db.VarChar(255)
   price           Decimal?          @db.Decimal(10, 0)
-  description     String?           @db.VarChar(45)
-  ingredients     String?           @db.VarChar(45)
-  picture_link    String?           @db.VarChar(45)
+  description     String?           @db.VarChar(255)
+  ingredients     String?           @db.VarChar(255)
+  picture_link    String?           @db.VarChar(255)
   category_id     Int?
   createdAt       DateTime          @default(now())
   updatedAt       DateTime          @updatedAt

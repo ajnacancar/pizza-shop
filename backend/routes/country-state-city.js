@@ -6,7 +6,7 @@ const router = express.Router();
 import { Country, City }  from 'country-state-city';
 
 
-router.get("/getAllCountries", async function (req, res) {
+router.get("/getAllCountries", async (req, res, next) => {
   logger.info(`Accessing route for getting all countries - ${req.ip}`);
   let countries = Country.getAllCountries();
   let countryArray = [];
@@ -20,7 +20,7 @@ router.get("/getAllCountries", async function (req, res) {
 });
 
 
-router.get("/getAllCities", async function (req, res) {
+router.get("/getAllCities", async (req, res, next) => {
   logger.info(`Accessing route for getting all cities - ${req.ip}`);
   let countryCode = req.query.country;
   let cities = City.getCitiesOfCountry(countryCode);

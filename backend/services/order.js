@@ -11,7 +11,7 @@ export const create = async (userId, orderData) => {
 
   const order = await prisma.order.create({
     data: {
-      customer_id: userId,
+      customer_id: +userId,
       status: orderData.status,
       order_date: currentDate,
       price_amount: orderData.price_amount,
@@ -42,11 +42,11 @@ export const create = async (userId, orderData) => {
 export const addNewOrderLineItem = async (line_item_data, orderId) => {
   const line_item = await prisma.order_line_item.create({
     data: {
-      product_id: line_item_data.product_id,
+      product_id: +line_item_data.product_id,
       quantity: line_item_data.quantity,
       unit_price_amount: line_item_data.unit_price_amount,
       total_line_amount: line_item_data.total_line_amount,
-      order_id: orderId
+      order_id: +orderId
     }
   })
 
@@ -77,7 +77,7 @@ export const getAll = async () => {
 export const getAllOrdersForUser = async (id) => {
   const orders = await prisma.order.findMany({
     where: {
-      customer_id: id,
+      customer_id: +id,
     },
     include: { user: true}
 })
@@ -92,14 +92,14 @@ export const getAllOrdersForUser = async (id) => {
 export const getOrderById = async (id) => {
   const order = await prisma.order.findUnique({
       where: {
-        id
+        id: +id
       },
       include: { user: true}
   })
 
   const line_items = await prisma.order_line_item.findUnique({
     where: {
-      order_id: id
+      order_id: +id
     },
     select: {
       id: true,
@@ -124,7 +124,7 @@ export const deleteOrder = async (id) => {
 
   const order = await prisma.order.delete({
     where: {
-      id
+      id: +id
     }
   })
 
@@ -141,7 +141,7 @@ export const deleteOrder = async (id) => {
 export const update = async (id, status) => {
   const order = await prisma.order.update({
     where: {
-      id
+      id: +id
     },
     data: {
       status: status,

@@ -8,37 +8,37 @@ import {getAll, getUserById, deleteUser, update} from "../services/user.js";
 
 const router = express.Router();
 
-router.get("/", protectAdmin, async (req, res) => {
+router.get("/", protectAdmin, async (req, res, next) => {
   logger.info(`Accessing route for getting all users - ${req.ip}`);
   try {
     let users = await getAll();
     res.json(users);
   } catch (err) {
-    logError(err);
+    logError(err, req, res, next);
   }
 });
 
 
-router.get("/:id", protectAdmin, async (req, res) => {
+router.get("/:id", protectAdmin, async (req, res, next) => {
   logger.info(`Accessing route for getting user by id - ${req.ip}`);
   try {
     let user = await getUserById(req.params.id);
     res.json(user);
   } catch (err) {
-    logError(err);
+    logError(err, req, res, next);
   }
 });
 
-router.delete("/:id", protectAdmin, async (req, res) => {
+router.delete("/:id", protectAdmin, async (req, res, next) => {
   logger.info(`Accessing route for deleting user by id - ${req.ip}`);
   try {
     res.json(await deleteUser(req.params.id));
   } catch (err) {
-    logError(err);
+    logError(err, req, res, next);
   }
 });
 
-router.put("/:id", protectAdmin, async (req, res) => {
+router.put("/:id", protectAdmin, async (req, res, next) => {
   logger.info(`Accessing route for updating user by id - ${req.ip}`);
   try {
     let updatedUser = {
@@ -51,7 +51,7 @@ router.put("/:id", protectAdmin, async (req, res) => {
     };
     res.json(await update(updatedUser));
   } catch (err) {
-    logError(err);
+    logError(err, req, res, next);
   }
 });
 

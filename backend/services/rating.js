@@ -5,7 +5,7 @@ const prisma = new PrismaClient()
 export const rate = async (ratingData) => {
   const rating = await prisma.rating.create({
     data: {
-      product_id: ratingData.product_id,
+      pizza_id: +ratingData.product_id,
       rating: ratingData.rating
     }
   })

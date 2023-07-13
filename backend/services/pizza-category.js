@@ -9,7 +9,7 @@ export const getAll = async () => {
 }
 
 export const get = async (id) => {
-  const category = await prisma.category.findUnique({where: {id: id}})
+  const category = await prisma.category.findUnique({where: {id: +id}})
   return {category}
 }
 
@@ -21,7 +21,7 @@ export const create = async (categoryData) => {
 
 export const update = async (id, categoryData) => {
   const category = await prisma.category.update({
-    where: {id: id},
+    where: {id: +id},
     data: {name: categoryData.name}
   })
 
@@ -30,7 +30,7 @@ export const update = async (id, categoryData) => {
 }
 
 export const remove = async (id) => {
-  const category = await prisma.category.delete({where: {id}})
+  const category = await prisma.category.delete({where: {id: +id}})
 
   let message = category ? 'Category is deleted successfully' : 'Error in deleting category';
   return {message};

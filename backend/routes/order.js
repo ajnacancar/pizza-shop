@@ -13,7 +13,7 @@ router.post("/", protect, async function (req, res, next) {
   try {
     res.json(await create(req.user.id, req.body));
   } catch (err) {
-    logError(err);
+    logError(err, req, res, next);
   }
 });
 
@@ -24,7 +24,7 @@ router.get("/userOrders", protect, async (req, res, next) => {
     if (!ordersForLoggedInUser) {res.json([])} 
     else {res.json(ordersForLoggedInUser)}
   } catch (err) {
-    logError(err);
+    logError(err, req, res, next);
   }
 });
 
@@ -34,7 +34,7 @@ router.get("/:id", protect, async (req, res, next) => {
     let order = await getOrderById(req.params.id);
     res.json(order);
   } catch (err) {
-    logError(err);
+    logError(err, req, res, next);
   }
 });
 
@@ -44,7 +44,7 @@ router.get("/", protectAdmin, async (req, res, next) => {
     let orders = await getAll();
     res.json(orders);
   } catch (err) {
-    logError(err);
+    logError(err, req, res, next);
   }
 });
 
@@ -54,7 +54,7 @@ router.delete("/:id", protectAdmin, async (req, res, next) => {
     let message = await deleteOrder(req.params.id);
     res.json(message);
   } catch (err) {
-    logError(err);
+    logError(err, req, res, next);
   }
 });
 
@@ -64,7 +64,7 @@ router.put("/:id", protectAdmin, async (req, res, next) => {
     let message = await update(req.params.id, req.body.status);
     res.json(message);
   } catch (err) {
-    logError(err);
+    logError(err, req, res, next);
   }
 });
 
