@@ -1,5 +1,5 @@
 Pizza Shop Application
-The Pizza Shop is a web application built with Node.js, Express, MySQL, and Prisma. It allows users to browse and order pizzas, while also providing an admin panel for managing pizza categories, pizzas, and orders.
+The Pizza Shop is a web application built with Node.js, Express, MySQL, Prisma and React.js. It allows users to browse and order pizzas, while also providing an admin panel for managing pizza categories, pizzas, and orders.
 
 Features
 
@@ -58,6 +58,16 @@ Installation
 
    Your express server will now be running on port 5000.
 
+9. Navigate to the project directory (frontend): `cd frontend`
+
+10. Install dependencies
+   npm install
+
+11. Start the server
+   npm start
+
+12. Your application running on: http://localhost:3000
+
 Folder Structure
 The folder structure of the project is as follows:
 
@@ -72,3 +82,10 @@ services/ - Defines the database models
 prisma/ - Defines the database schema using Prisma and migrations
 
 migrations/ - Contains the database migration files for Prisma
+
+frontend/ 
+
+public/ - special directory that contains static assets and files that will be directly accessible to the user when application is build and deployed
+
+src/ - the main source directory where is written and organized appplication
+
