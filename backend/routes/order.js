@@ -9,18 +9,18 @@ import {create, getAll, getAllOrdersForUser, getOrderById, deleteOrder, update }
 const router = express.Router();
 
 router.post("/", protect, async function (req, res, next) {
-  logger.info(`Accessing route for creating a new order - ${req.user.id} ${req.ip}`);
+  logger.info(`Accessing route for creating a new order - ${req.user.user.id} ${req.ip}`);
   try {
-    res.json(await create(req.user.id, req.body));
+    res.json(await create(req.user.user.id, req.body));
   } catch (err) {
     logError(err, req, res, next);
   }
 });
 
 router.get("/userOrders", protect, async (req, res, next) => {
-  logger.info(`Accessing route for getting all orders for a logged in user - ${req.user.id} ${req.ip}`);
+  logger.info(`Accessing route for getting all orders for a logged in user - ${req.user.user.id} ${req.ip}`);
   try {
-    let ordersForLoggedInUser = await getAllOrdersForUser(req.user.id);
+    let ordersForLoggedInUser = await getAllOrdersForUser(req.user.user.id);
     if (!ordersForLoggedInUser) {res.json([])} 
     else {res.json(ordersForLoggedInUser)}
   } catch (err) {

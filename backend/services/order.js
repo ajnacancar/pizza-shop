@@ -1,5 +1,7 @@
 
 import pkg from '@prisma/client';
+import {exclude, excludeUserPassword} from '../helpers.js'
+
 const { PrismaClient, Prisma } = pkg;
 const prisma = new PrismaClient()
 
@@ -7,11 +9,11 @@ import moment from "moment";
 
 //create function inserts a new order into the databse
 export const create = async (userId, orderData) => {
-  let currentDate = moment().format("YYYY-MM-DD HH:mm:ss");
+  let currentDate = new Date();
 
   const order = await prisma.order.create({
     data: {
-      customer_id: +userId,
+      customer_id: userId,
       status: orderData.status,
       order_date: currentDate,
       price_amount: orderData.price_amount,
@@ -27,11 +29,11 @@ export const create = async (userId, orderData) => {
   let message = "Error in creating new order";
 
   if (order) {
-    order.line_items.forEach((line_item) => {
+    orderData.line_items.forEach((line_item) => {
       addNewOrderLineItem(line_item, order.id);
     });
 
-    data = await getOrderById(order.id);
+    let data = await getOrderById(order.id);
     return { data };
   } else {
     return { message };
@@ -43,7 +45,7 @@ export const addNewOrderLineItem = async (line_item_data, orderId) => {
   const line_item = await prisma.order_line_item.create({
     data: {
       product_id: +line_item_data.product_id,
-      quantity: line_item_data.quantity,
+      quantity: +line_item_data.quantity,
       unit_price_amount: line_item_data.unit_price_amount,
       total_line_amount: line_item_data.total_line_amount,
       order_id: +orderId
@@ -63,10 +65,11 @@ export const addNewOrderLineItem = async (line_item_data, orderId) => {
 //get all orders
 export const getAll = async () => {
 
-  const orders = await prisma.order.findMany({
+  let orders = await prisma.order.findMany({
     include: { user: true },
   })
 
+  orders.forEach((order) =>  {return excludeUserPassword(order)});
 
   return {
     orders,
@@ -75,13 +78,14 @@ export const getAll = async () => {
 
 //get all orders for the logged in user
 export const getAllOrdersForUser = async (id) => {
-  const orders = await prisma.order.findMany({
+  let orders = await prisma.order.findMany({
     where: {
       customer_id: +id,
     },
     include: { user: true}
 })
 
+orders.forEach((order) =>  {return excludeUserPassword(order)});
 
   return {
     orders,
@@ -90,25 +94,21 @@ export const getAllOrdersForUser = async (id) => {
 
 //get order by id
 export const getOrderById = async (id) => {
-  const order = await prisma.order.findUnique({
+  let order = await prisma.order.findUnique({
       where: {
         id: +id
       },
       include: { user: true}
   })
 
-  const line_items = await prisma.order_line_item.findUnique({
+  order = excludeUserPassword(order);
+
+  const line_items = await prisma.order_line_item.findMany({
     where: {
       order_id: +id
     },
-    select: {
-      id: true,
-      order_id: true,
-      name: true,
-      quantity: true,
-      unit_price_amount: true,
-      total_line_amount: true,
-
+    include: {
+      pizza: true
     }
 })
 
