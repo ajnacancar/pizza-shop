@@ -4,6 +4,8 @@
   "private": true,
   "proxy": "http://192.168.50.34:5000",
   "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/data-grid": "^4.0.0-alpha.37",
     "@reduxjs/toolkit": "^1.9.5",
     "@splidejs/react-splide": "^0.7.12",
     "@testing-library/jest-dom": "^5.16.5",

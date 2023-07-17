@@ -1,13 +1,19 @@
 import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
 import authService from "./authService";
+import { ADMIN_DATA, USER_DATA } from "../../data/static_data";
 
 // GET USER FROM LOCAL STORAGE
-const user = localStorage.getItem("user")
-  ? JSON.parse(localStorage.getItem("user"))
+const user = localStorage.getItem(USER_DATA)
+  ? JSON.parse(localStorage.getItem(USER_DATA))
+  : null;
+
+const admin = localStorage.getItem(ADMIN_DATA)
+  ? JSON.parse(localStorage.getItem(USER_DATA))
   : null;
 
 const initialState = {
-  user: user && user.data.id ? user.data : null,
+  user: user && user.id ? user : null,
+  admin: admin && admin.id ? admin : null,
   isError: null,
   isSuccess: null,
   message: "",
@@ -44,6 +50,24 @@ export const login = createAsyncThunk("auth/login", async (user, thunkAPI) => {
     return thunkAPI.rejectWithValue(message);
   }
 });
+
+//LOGIN USER
+export const loginAdmin = createAsyncThunk(
+  "auth/login-admin",
+  async (user, thunkAPI) => {
+    try {
+      return await authService.loginAdmin(user);
+    } catch (error) {
+      const message =
+        (error.response &&
+          error.response.data &&
+          error.response.data.message) ||
+        error.message ||
+        error.toString();
+      return thunkAPI.rejectWithValue(message);
+    }
+  }
+);
 
 //LOGOUT USER
 export const logout = createAsyncThunk("auth/logout", async () => {
@@ -86,6 +110,20 @@ export const authSlice = createSlice({
       .addCase(login.rejected, (state, action) => {
         state.isLoading = false;
         state.user = null;
+        state.isError = true;
+        state.message = action.payload;
+      })
+      .addCase(loginAdmin.fulfilled, (state, action) => {
+        state.isLoading = false;
+        state.isSuccess = true;
+        state.admin = action.payload;
+      })
+      .addCase(loginAdmin.pending, (state) => {
+        state.isLoading = true;
+      })
+      .addCase(loginAdmin.rejected, (state, action) => {
+        state.isLoading = false;
+        state.admin = null;
         state.isError = true;
         state.message = action.payload;
       });
