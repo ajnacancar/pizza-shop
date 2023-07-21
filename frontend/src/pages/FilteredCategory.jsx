@@ -20,7 +20,7 @@ function FilteredCategory() {
   return (
     <div className="min-h-screen flex flex-col bg-[#272629] py-10 lg:px-20 px-5">
       <Header />
-      <div className="mb-20 w-full">
+      <div className="my-20 w-full">
         <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-8">
           {pizzas &&
             pizzas.map((pizza) => <Card key={pizza.id} pizza={pizza} />)}

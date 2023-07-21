@@ -19,6 +19,8 @@ import AdminLogin from "./pages/admin/AdminLogin";
 import AdminHome from "./pages/admin/AdminHome.jsx";
 import AdminOrderDetails from "./pages/admin/AdminOrderDetails";
 import AdminOrders from "./pages/admin/AdminOrders";
+import AdminPizzas from "./pages/admin/AdminPizzas";
+import AdminCategories from "./pages/admin/AdminCategories";
 
 function App() {
   const user = localStorage.getItem(USER_DATA)
@@ -84,7 +86,7 @@ function App() {
             {/* Admin routes start */}
             <Route path="/admin/login" element={<AdminLogin />} />
             <Route
-             exact
+              exact
               path={"/admin"}
               element={
                 <ProtectedRoute
@@ -106,13 +108,37 @@ function App() {
             />
 
             <Route
-            exact
+              exact
               path={"/admin/orders"}
               element={
                 <ProtectedRoute
                   redirectTo={"admin/login"}
                   user={admin}
-                  children={<AdminOrders/>}
+                  children={<AdminOrders />}
+                />
+              }
+            />
+
+            <Route
+              exact
+              path={"/admin/pizzas"}
+              element={
+                <ProtectedRoute
+                  redirectTo={"admin/login"}
+                  user={admin}
+                  children={<AdminPizzas />}
+                />
+              }
+            />
+
+            <Route
+              exact
+              path={"/admin/categories"}
+              element={
+                <ProtectedRoute
+                  redirectTo={"admin/login"}
+                  user={admin}
+                  children={<AdminCategories />}
                 />
               }
             />

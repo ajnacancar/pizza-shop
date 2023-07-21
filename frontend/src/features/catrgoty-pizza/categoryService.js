@@ -8,8 +8,46 @@ const getAllCategories = async () => {
   return response.data.categories;
 };
 
+//CREATE CATEGORY
+const createCategory = async (data, token) => {
+  const config = {
+    headers: {
+      Authorization: `Bearer ${token}`,
+    },
+  };
+
+  const response = await axios.post(`${API_URL}`, data, config);
+  return response.data;
+};
+
+//UPDATE CATEGORY
+const updateCategory = async (data, token) => {
+  const config = {
+    headers: {
+      Authorization: `Bearer ${token}`,
+    },
+  };
+
+  const response = await axios.put(`${API_URL}/${data.id}`, data, config);
+  return response.data;
+};
+
+//DELETE CATEGORY
+const deleteCategory = async (id, token) => {
+  const config = {
+    headers: {
+      Authorization: `Bearer ${token}`,
+    },
+  };
+
+  const response = await axios.delete(`${API_URL}/${id}`, config);
+  return response.data;
+};
 const categoryService = {
   getAllCategories,
+  createCategory,
+  updateCategory,
+  deleteCategory,
 };
 
 export default categoryService;
