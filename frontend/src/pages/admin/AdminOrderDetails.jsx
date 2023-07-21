@@ -30,7 +30,7 @@ function AdminOrderDetails() {
 
      
      <div className="w-full md:flex md:justify-center">
-            <div className="lg:w-1/2">
+            <div className="lg:w-[70%]">
               {order && order.line_items && order.line_items.length > 0 && (
                 <div className="my-10">
                   <div className="w-full grid md:grid-cols-6 grid-cols-1">
