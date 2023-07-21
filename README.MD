@@ -28,7 +28,7 @@ Installation
 
 1. Clone the repository
 
-2. Navigate to the project directory (backend)
+2. Navigate to the project directory (backend): `cd backend`
 
 3. Copy the .env.example file to .env
 
@@ -41,30 +41,30 @@ Installation
    ACCESS_TOKEN_SECRET = secret
 
 4. Install dependencies
-   npm install
+   `npm install`
 
 5. Set up the MySQL database:
    Create a new MySQL database for the application.
    Update the database connection details in the .env file with your MySQL credentials.
 
 6. Generate the Prisma Client
-   npx prisma generate
+  `npx prisma generate`
 
 7. Migrate Database with Prisma
-   npx prisma migrate dev
+   `npx prisma migrate dev`
 
 8. Start the server
-   npm start
+   `npm start`
 
    Your express server will now be running on port 5000.
 
 9. Navigate to the project directory (frontend): `cd frontend`
 
 10. Install dependencies
-   npm install
+   `npm install`
 
 11. Start the server
-   npm start
+   `npm start`
 
 12. Your application running on: http://localhost:3000
 
